@@ -10,7 +10,7 @@
  * @link		http://wiki.foxycart.com/v/0.7.0/advanced/api
  */
 
-class Libraries_Gateway_Foxycart_Api
+class Foxycart_Api
 {
 	/**
 	 * FoxyCart endpoint url.
