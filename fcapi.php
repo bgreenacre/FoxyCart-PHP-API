@@ -1,16 +1,4 @@
-<?php defined('KO_SYSPATH') or die('No direct script access.');
-/**
- * Acmecart Ecommerce.
- *
- * @package		Acmecart
- * @author		HCCDevelopment - Brian Greenacre
- * @copyright	Copyright (c) 2010, HCCDevelopment, Inc.
- * @link		http://www.hccdevelopment.com
- * @license		http://www.hccdevelopment.com/Web-Based-Software/Legal_Information/
- */
-
-// ------------------------------------------------------------------------
-
+<?php
 /**
  * FoxyCart API class.
  *
